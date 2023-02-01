@@ -1,0 +1,23 @@
+.section {
+    color: red;
+}
+
+.title {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+#first-paragraph {
+    color: orange;
+}
+
+.section2 {
+    color: aquamarine;
+}
+
+body {
+    color: brown;
+}
