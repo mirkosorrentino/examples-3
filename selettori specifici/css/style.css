@@ -1,0 +1,11 @@
+div.starred {
+    background-color: aquamarine;
+}
+
+.paragraph {
+    background-color: blueviolet;
+}
+
+section .starred {
+    background-color: cadetblue;
+}
